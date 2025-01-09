@@ -4,13 +4,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhaggi007&label=Profile%20views&color=0e75b6&style=flat" alt="bhaggi007" /> </p>
 
-- 🌱 I’m currently learning **MERN stack, AWS, DevOPS**
+- 🌱**DevOps Engineer** with a background in **Full-Stack Development** (**Spring Boot**, **Java**) and a passion for **Continuous Learning** and **Knowledge Sharing**.
 
-- 👨‍💻 All of my projects are available at [coming soon...](coming soon...)
+- 👨‍💻 **Current Focus:**
+- * **AWS** and **DevOps**
 
-- 📝 I regularly write articles on [coming soon...](coming soon...)
+- 📝 **Looking for:**
+- * Collaboration on **DevOps Projects**
 
-- 💬 Ask me about **Mongo, React, Nodejs, System design, devops, linux, docker, kubernetes, terraform,helm**
+- 💬 Ask me about **Mongo, React, Nodejs, System design, devops, linux, docker, kubernetes, terraform,helm, jenkins,**
+- **Learning Journey:**
+- * **Python**
+- **Seeking Guidance:**
+- * **Microservice Architecture**
 
 - 📫 How to reach me **bhaggi007@gmail.com**
 
