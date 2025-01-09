@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhaggi007&label=Profile%20views&color=0e75b6&style=flat" alt="bhaggi007" /> </p>
 
-- 🌱**DevOps Engineer** with a background in **Full-Stack Development** (**Spring Boot**, **Java**) and a passion for **Continuous Learning** and **Knowledge Sharing**.
+- 🌱**DevOps Engineer** with a background in **Full-Stack Development** (**Spring Boot**, **Java**, **MERN**) and a passion for **Continuous Learning** and **Knowledge Sharing**.
 
 - 👨‍💻 **Current Focus:**  **AWS** and **DevOps**
 
