@@ -6,11 +6,9 @@
 
 - 🌱**DevOps Engineer** with a background in **Full-Stack Development** (**Spring Boot**, **Java**) and a passion for **Continuous Learning** and **Knowledge Sharing**.
 
-- 👨‍💻 **Current Focus:**
-- * **AWS** and **DevOps**
+- 👨‍💻 **Current Focus:** * **AWS** and **DevOps**
 
-- 📝 **Looking for:**
-- * Collaboration on **DevOps Projects**
+- 📝 **Looking for:** Collaboration on **DevOps Projects**
 
 - 💬 Ask me about **Mongo, React, Nodejs, System design, devops, linux, docker, kubernetes, terraform,helm, jenkins,**
 - **Learning Journey:**
